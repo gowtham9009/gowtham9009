@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gowtham9009
+                                                       👋 Hi, I’m @gowtham9009
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning REACT , NODE.JS , JS, HTML, CSS, EXPRESS.
+- Checkout my internet blog https://gowthambandlapalli.substack.com
 - 📫 How to reach me gowthambandlapalli@gmail.com
 
 <!---
